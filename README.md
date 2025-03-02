@@ -7,7 +7,7 @@ Repository contains the content listed below and will be updated each week.
 - Homeworks
 - Solutions
 - Example Questions
-- And other useful informations about lectures...
+- And other useful information about lectures...
 
 ## Course Information
 
@@ -18,7 +18,7 @@ Repository contains the content listed below and will be updated each week.
 ## Folder Layout
 
 ```plaintext
-Week1/
-├── week1_intro.m    # code scripts
+Week/
+├── code.m    # code scripts
 ├── resources.md     # links and references
-└── notes.pdf        # Lecture notes
+└── notes.pdf        # Lecture notes 
